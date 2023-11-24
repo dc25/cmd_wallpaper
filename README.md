@@ -1,5 +1,9 @@
 A gnome shell extension that displays the output of a command on the desktop.
 
+
+**NOTE:  As of [GNOME Shell 45](https://gjs.guide/extensions/upgrading/gnome-shell-45.html#esm) , this no longer works.  I spent a few hours trying to update it but decided it was not worth the effort.   My guess is that it *could* be fixed but it's not that important to me and I don't think anyone else is using it.   If someone reading this figures out how to get it working again, please let me know what it takes.**
+
+
 Original code taken from answer to https://stackoverflow.com/questions/29816027/a-simple-way-to-show-my-hostname-ip-in-gnome-panel-or-on-my-desktop-background
 
 * Use `git clone  https://github.com/dc25/cmd_wallpaper.git "$HOME/.local/share/gnome-shell/extensions/cmd_wallpaper@davecompton.net"` to install this extension. 
